@@ -79,16 +79,6 @@ export default function Footer() {
                   Books
                 </Link>
               </li>
-
-              <li>
-                <Link
-                  href="/categories"
-                  className="transition hover:text-foreground"
-                >
-                  Categories
-                </Link>
-              </li>
-
               <li>
                 <Link
                   href="/about"
