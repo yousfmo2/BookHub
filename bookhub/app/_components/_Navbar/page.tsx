@@ -98,7 +98,7 @@ export default function Navbar() {
             </Link>
 
             <Link
-              href="/favorites"
+              href="/aboutUs"
               onClick={() => setOpen(false)}
               className="rounded-lg px-4 py-3 text-sm font-medium hover:bg-gray-100 dark:hover:bg-zinc-800"
             >
