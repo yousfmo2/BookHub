@@ -81,7 +81,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="/about"
+                  href="/aboutUs"
                   className="transition hover:text-foreground"
                 >
                   About Us
